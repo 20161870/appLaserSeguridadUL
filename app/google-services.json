@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "176738857078",
+    "firebase_url": "https://robot-amigo-ul-default-rtdb.firebaseio.com",
+    "project_id": "robot-amigo-ul",
+    "storage_bucket": "robot-amigo-ul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176738857078:android:30f7bf0b96385f673daf57",
+        "android_client_info": {
+          "package_name": "com.example.firebasecompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176738857078-imtgg0p11cnmnuedeete739u6b08glcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlfz4C7ktQkzfm1qBRwyYGs02Yn6cETN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176738857078-imtgg0p11cnmnuedeete739u6b08glcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
